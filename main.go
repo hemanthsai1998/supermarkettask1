@@ -1,7 +1,7 @@
 package main
 
 import (
-	supermarket "https://github.com/hemanthsai1998"
+	supermarket "github.com/hemanthsai1998/supermarkettask1"
 )
 
 func main() {
