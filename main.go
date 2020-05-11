@@ -1,7 +1,7 @@
 package main
 
 import (
-	supermarket "cisco/supermarket"
+	supermarket "https://github.com/hemanthsai1998"
 )
 
 func main() {
