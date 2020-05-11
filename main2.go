@@ -1,7 +1,7 @@
 package main
 
 import (
-	mart "cisco/supermarket"
+	mart "github.com/hemanthsai1998/supermarkettask1"
 	"fmt"
 )
 
